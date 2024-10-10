@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">myapplication</string>
+    <string-array name="spinner_items">
+        <item>EPIS</item>
+        <item>EPAE</item>
+        <item>EPC</item>
+        <item>EPIAM</item>
+        <item>EPIA</item>
+    </string-array>
+</resources>
